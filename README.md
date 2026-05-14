@@ -55,6 +55,11 @@ You can also explore the design applications directly from the platform. The app
 https://github.com/JoseLlorensRipolles/stockpile-volume-computation
 
 ---
+# **3D Bharat Buddy Module**
+**Link:**
+https://edu.3dbharat.com/storage/buddy/Buddy_Module.mp4
+
+---
 
 # **3D Point Cloud Questions**
 
