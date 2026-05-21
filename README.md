@@ -61,6 +61,20 @@ https://edu.3dbharat.com/storage/buddy/Buddy_Module.mp4
 
 ---
 
+# ** Point Cloud Files Download**
+**Links:**
+https://edu.3dbharat.com/storage/road/Road_Design_Charholi.ply
+https://edu.3dbharat.com/storage/road/BT%20KWADE%20ROAD.ply
+https://edu.3dbharat.com/storage/bridge/Bridge_Raw.ply
+
+---
+
+# **Case Studies**
+1. Reasearch on the Underground pipelines structure with full detail
+2. Reasearch on the Solar Panel installation on the ground or building with structure
+
+---
+
 # **3D Point Cloud Questions**
 
 1. What is point cloud data?  
