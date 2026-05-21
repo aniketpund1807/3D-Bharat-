@@ -73,6 +73,10 @@ https://edu.3dbharat.com/storage/buddy/Buddy_Module.mp4
 1. Reasearch on the Underground pipelines structure with full detail
 2. Reasearch on the Solar Panel installation on the ground or building with structure
 
+### Note: 
+1. Do not copy and paste content from any AI tools such as ChatGPT, Gemini, Claude, etc., for the case studies.
+2. Prepare a proper document for case study (Any one).
+
 ---
 
 # **3D Point Cloud Questions**
